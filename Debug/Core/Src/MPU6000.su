@@ -1,0 +1,10 @@
+MPU6000.c:17:9:MPU6000_Init	32	static
+MPU6000.c:120:9:MPU6000_ReadAccRegister	40	static
+MPU6000.c:139:9:MPU6000_ReadGyrRegister	40	static
+MPU6000.c:158:9:MPU6000_WriteAccRegister	24	static
+MPU6000.c:171:9:MPU6000_WriteGyrRegister	24	static
+MPU6000.c:191:9:MPU6000_ReadAccelerometer	112	static
+MPU6000.c:218:9:MPU6000_ReadGyroscope	104	static
+MPU6000.c:245:9:MPU6000_ReadTemperature	88	static
+MPU6000.c:274:9:MPU6000_ReadDataDMA	16	static
+MPU6000.c:291:6:MPU6000_ReadDataDMA_Complete	32	static

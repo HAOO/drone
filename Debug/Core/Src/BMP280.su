@@ -1,0 +1,4 @@
+BMP280.c:15:9:BMP580_Init	32	static
+BMP280.c:73:9:BMP280_ReadBarRegister	40	static
+BMP280.c:92:9:BMP280_ReadBarCalibration	80	static
+BMP280.c:112:9:BMP280_WriteBarRegister	24	static
